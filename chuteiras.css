@@ -1,0 +1,50 @@
+    body{
+         background-size: auto;
+    color: rgb(202, 156, 28);
+    background-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFr6R4c_2sIuaizUBCFgf-zM_uxOJOW3-K8j_0iQy4Q&s=10;
+    }
+
+    img{
+     width: 270px;
+   height: 270px;
+   border-radius: 50px;
+   border: 8px groove rgb(170, 134, 67);
+   /* css border styles*/
+    }
+  
+    h1{
+    
+    color: red;
+    font-size: 60px;
+text-align-last: center;
+}
+
+h2{
+     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    background-color: brown;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+
+a{
+     color:red ;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 40px;
+    font-family: Comic Sans MS;
+      padding:10px ;
+    opacity:0.7s ;
+     width: 70%;
+     transform: 0.5;
+}                
+}
+}
+
+
+
+
+       
+    
